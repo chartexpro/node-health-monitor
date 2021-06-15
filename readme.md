@@ -1,0 +1,1 @@
+settings.config is json formatted and contains public RPC servers for Binance Smart Chain, Ethereum and Polygon. Create a folder called 'settings' in the relevant bin folder if debugging via Visual Studio, or in the same folder as the executable if you have already compiled and copy settings.config into it.
